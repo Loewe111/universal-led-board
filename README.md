@@ -1,12 +1,9 @@
-# Its finally done!
-
-This is my PCB that I applied to OnBoard with.
+# Universal LED Board
 
 ![Screenshot 2024-07-11 154233](https://github.com/user-attachments/assets/6f86940b-c227-41a7-abcf-32bec25b6415)
 ![Screenshot 2024-07-11 154330](https://github.com/user-attachments/assets/f2a06a23-32ee-49c9-bd4d-d74495e2cf9c)
 
-
-It is a PCB made for controlling LED Strips with [WLED](https://kno.wled.ge/). It features 4 Outputs for Adressable LED Strips, 3 Transistors to controll traditional RGB Strips and an DMX In- or Output. On the Front there are Buttons to Load Custom preset without having to open the App.
+This is a PCB made for controlling LED Strips with [WLED](https://kno.wled.ge/). It features 4 Outputs for Adressable LED Strips, 3 Transistors to controll traditional RGB Strips and an DMX In- or Output. On the Front there are Buttons to Load Custom preset without having to open the App.
 
 Thanks to the case it can be mounted in a standard DIN-Rail Breaker Box to have a clean-looking WLED Setup
 
